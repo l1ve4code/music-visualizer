@@ -6,6 +6,8 @@
 
 Rendering music on JS, using the p5.js library.
 
+[Try it here (Just click on window)](https://l1ve4code.github.io/music-visualizer/)
+
 ### Main screen
 
 <img src="resources/image.png">
